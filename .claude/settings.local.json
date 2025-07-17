@@ -1,7 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "Bash(mv:*)"
+      "Bash(*)",
+      "Bash(mv:*)",
+      "Bash(cat:*)",
+      "Bash(gh:*)",
+      "Bash(python -c:*)"
     ],
     "deny": []
   }
