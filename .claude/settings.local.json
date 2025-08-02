@@ -9,7 +9,11 @@
       "Bash(python -c:*)",
       "Bash(python:*)",
       "Bash(git add:*)",
-      "Bash(git reset:*)"
+      "Bash(git reset:*)",
+      "Bash(git pull:*)",
+      "Bash(git mv:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
     ],
     "deny": []
   }
